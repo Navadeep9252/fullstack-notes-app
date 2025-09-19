@@ -8,8 +8,8 @@ A **full-stack Notes App** where users can register, login, and manage personal 
 ## 🎥 Live Demo & Video
 - **Frontend (Vercel):** [https://notes-frontend.vercel.app](https://fullstack-notes-app-five.vercel.app/)  
 - **Backend (Render):** [https://notes-backend.onrender.com](https://fullstack-notes-app-1-7cja.onrender.com)  
-- **Video Demo:** ![App Demo](https://drive.google.com/drive/folders/19BwJqnuJQkD_158QCwIWK6UWZ6yIORPe?usp=sharing) 
-
+- **Video Demo:** ![App Demo](https://drive.google.com/drive/folders/19BwJqnuJQkD_158QCwIWK6UWZ6yIORPe?usp=sharing)
+- video = https://drive.google.com/drive/folders/19BwJqnuJQkD_158QCwIWK6UWZ6yIORPe?usp=sharing
 ---
 
 ## 🗂 Project Folder Structure
